@@ -1,0 +1,786 @@
+{
+  "format": "repro.provisioning-contributions",
+  "schemaVersion": 1,
+  "contributions": [
+    {
+      "targetPackage": "claude-desktop",
+      "targetInterfaceFingerprint": "6711c016e90ede46db0b3269a5bd335ac12da2cedd7ca5d80194fdd05a959eb3",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "claude-desktop",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "claude",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 65
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 62
+      }
+    },
+    {
+      "targetPackage": "codex",
+      "targetInterfaceFingerprint": "5f10bc6323dc999df7dd609ac35ac98be8d9086598198a17d228f6de96092d0e",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "codex",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "codex",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 154
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 151
+      }
+    },
+    {
+      "targetPackage": "codex-desktop",
+      "targetInterfaceFingerprint": "b08c13c8611c6f533c323b11d5295275c613bf077b12f32855adf9266760267d",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "codex-desktop",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "codex-app",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 72
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 69
+      }
+    },
+    {
+      "targetPackage": "cursor",
+      "targetInterfaceFingerprint": "8dd554281084bff16420c3d253d7414115f41fc6ca153d6b7c4bcbb655114069",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "cursor",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "cursor",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 159
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 156
+      }
+    },
+    {
+      "targetPackage": "discord",
+      "targetInterfaceFingerprint": "65422a2af33f641bae22967bde3a3ac28828b40fc77abf13d8a144e3b4f21deb",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "discord",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "discord",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 164
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 161
+      }
+    },
+    {
+      "targetPackage": "figma",
+      "targetInterfaceFingerprint": "0a6c9ce906f240dbd956edec0fe1f65f667c64190ff838d2ab78cf1a12ef68de",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "figma",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "figma",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 77
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 74
+      }
+    },
+    {
+      "targetPackage": "ghostty",
+      "targetInterfaceFingerprint": "d44788aef18ea078e8b4fcd5f110cb5810a5a87d82c2d547b970abf4dfa197dc",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "ghostty",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "ghostty",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 82
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 79
+      }
+    },
+    {
+      "targetPackage": "google-antigravity",
+      "targetInterfaceFingerprint": "14401f7b04e34f7d8a4a2aa16e362b5a5b0e243adb6b22f42702b288d712a4fa",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "google-antigravity",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "antigravity",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 170
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 167
+      }
+    },
+    {
+      "targetPackage": "google-antigravity-cli",
+      "targetInterfaceFingerprint": "2aa80add15052138b871ed86909deb08d9f92ff39c77a1717e49e4e22dc426f6",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "google-antigravity-cli",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "antigravity-cli",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 175
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 172
+      }
+    },
+    {
+      "targetPackage": "google-antigravity-ide",
+      "targetInterfaceFingerprint": "edf7f8b82b4aeb14992a33dc1ad708fa88aba66a30272602bd9d02900f3dfd82",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "google-antigravity-ide",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "antigravity-ide",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 180
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 177
+      }
+    },
+    {
+      "targetPackage": "hammerspoon",
+      "targetInterfaceFingerprint": "71f3eb8a2fe3b9b36a89d9c64e622377bfe3de5083ef849da7d4f1c1da5f4c78",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "hammerspoon",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "hammerspoon",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 87
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 84
+      }
+    },
+    {
+      "targetPackage": "inkscape",
+      "targetInterfaceFingerprint": "de81490859b583facf96516035bb798f2685b5e49271dc217f7b2ea007684d45",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "inkscape",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "inkscape",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 92
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 89
+      }
+    },
+    {
+      "targetPackage": "iterm2",
+      "targetInterfaceFingerprint": "f77eaca1ec7dbe356ea48518b57c9bbc5d1504ec9684f6461614b5a625edb59a",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "iterm2",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "iterm2",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 97
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 94
+      }
+    },
+    {
+      "targetPackage": "jdk",
+      "targetInterfaceFingerprint": "afc0a39a7be6a642e5a99b2a65ae0650f53c4ccc6a4b0b3a9fd94b1a77547078",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "jdk",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "temurin@21",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 187
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 184
+      }
+    },
+    {
+      "targetPackage": "karabiner-elements",
+      "targetInterfaceFingerprint": "0ed4e7e6f260bdec1729a51c105311e8a0b29d108aca55a54df53613bd348141",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "karabiner-elements",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "karabiner-elements",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 102
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 99
+      }
+    },
+    {
+      "targetPackage": "ledger-wallet",
+      "targetInterfaceFingerprint": "487ce7e97ba72bef67ad9bb74fed74b750769d05725382cc6f949b1c7661df40",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "ledger-wallet",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "ledger-wallet",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 192
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 189
+      }
+    },
+    {
+      "targetPackage": "neovide",
+      "targetInterfaceFingerprint": "cc91498fe96c18067fdcf3729aa5e3a12ca09218c39ef20e8b4685cab9693ef5",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "neovide",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "neovide-app",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 108
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 105
+      }
+    },
+    {
+      "targetPackage": "openwebstart",
+      "targetInterfaceFingerprint": "115a8de3056c85495daed52f3196a57cddac4efdc66a978917015a64d6c152df",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "openwebstart",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "openwebstart",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 113
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 110
+      }
+    },
+    {
+      "targetPackage": "signal",
+      "targetInterfaceFingerprint": "fadf54bca39b6882281466d3bd6a18ed11c51370821860aa07096a21d507ce69",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "signal",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "signal",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 197
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 194
+      }
+    },
+    {
+      "targetPackage": "slack",
+      "targetInterfaceFingerprint": "f3d91e94ebc062a136f339820d2371abf8b321601f7aa79b747148a42e08bdf3",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "slack",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "slack",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 202
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 199
+      }
+    },
+    {
+      "targetPackage": "sqlitebrowser",
+      "targetInterfaceFingerprint": "86c9f9c4142dc958a3b6a7399f21f344e21bff13f9bf7ff91b83191804278f09",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "sqlitebrowser",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "db-browser-for-sqlite",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 119
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 116
+      }
+    },
+    {
+      "targetPackage": "telegram",
+      "targetInterfaceFingerprint": "f6a46eda0a193ca94573c51a8d8c7007ac4c2254cea8fa73b0291c8ba69385d6",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "telegram",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "telegram",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 207
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 204
+      }
+    },
+    {
+      "targetPackage": "tigervnc",
+      "targetInterfaceFingerprint": "80bd1626dbd9019436b4bdecb43fcf078d4120afa30c754bdb6e24a3c366f2b9",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "tigervnc",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "tigervnc",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 124
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 121
+      }
+    },
+    {
+      "targetPackage": "turbovnc",
+      "targetInterfaceFingerprint": "11cf5be46c3bdef604d570a00447e34e14d2266e48f35e14a826e747dc8fa611",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "turbovnc",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "turbovnc-viewer",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 129
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 126
+      }
+    },
+    {
+      "targetPackage": "utm",
+      "targetInterfaceFingerprint": "b5d653d9205cfd41e28a2c9bed0f1e4d1e3f664bf67ba46b179cd808ece9afec",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "utm",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "utm",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 134
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 131
+      }
+    },
+    {
+      "targetPackage": "viber",
+      "targetInterfaceFingerprint": "b0b894c110dd97e74be2fe0455c523a0c7151308dc53ac9cee507332d6e7af7c",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "viber",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "viber",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 212
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 209
+      }
+    },
+    {
+      "targetPackage": "virtualbuddy",
+      "targetInterfaceFingerprint": "a93f0305d37a74c9f8a1118e50d4f74730982a25a700277712fffc69ffb7c813",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "virtualbuddy",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "virtualbuddy",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 217
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 214
+      }
+    },
+    {
+      "targetPackage": "vscode",
+      "targetInterfaceFingerprint": "8f2b44e1313bf75e9e61a1ab61988aaf83f800d4b8f01abf79b8286c87468faa",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "vscode",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "visual-studio-code",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 139
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 136
+      }
+    },
+    {
+      "targetPackage": "windows-app",
+      "targetInterfaceFingerprint": "bbc861c64a64555ac9963619a58042513e591295a6b5caec3eb49a2796fc6a5e",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "windows-app",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "windows-app",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 144
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 141
+      }
+    },
+    {
+      "targetPackage": "zerotier-one",
+      "targetInterfaceFingerprint": "9e0b34face21cbbfc994c805ceaa0c48efffd04abb267d82d9c4247c884f592c",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "zerotier-one",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "zerotier-one",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 222
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 219
+      }
+    }
+  ]
+}
