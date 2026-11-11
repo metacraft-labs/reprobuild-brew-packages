@@ -19,14 +19,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 65
+            "line": 66
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 62
-      }
+        "line": 63
+      },
+      "imported": false
     },
     {
       "targetPackage": "codex",
@@ -45,14 +46,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 154
+            "line": 155
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 151
-      }
+        "line": 152
+      },
+      "imported": false
     },
     {
       "targetPackage": "codex-desktop",
@@ -71,14 +73,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 72
+            "line": 73
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 69
-      }
+        "line": 70
+      },
+      "imported": false
     },
     {
       "targetPackage": "cursor",
@@ -97,14 +100,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 159
+            "line": 160
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 156
-      }
+        "line": 157
+      },
+      "imported": false
     },
     {
       "targetPackage": "discord",
@@ -123,14 +127,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 164
+            "line": 165
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 161
-      }
+        "line": 162
+      },
+      "imported": false
     },
     {
       "targetPackage": "figma",
@@ -149,14 +154,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 77
+            "line": 78
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 74
-      }
+        "line": 75
+      },
+      "imported": false
     },
     {
       "targetPackage": "ghostty",
@@ -175,14 +181,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 82
+            "line": 83
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 79
-      }
+        "line": 80
+      },
+      "imported": false
     },
     {
       "targetPackage": "google-antigravity",
@@ -201,14 +208,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 170
+            "line": 171
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 167
-      }
+        "line": 168
+      },
+      "imported": false
     },
     {
       "targetPackage": "google-antigravity-cli",
@@ -227,14 +235,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 175
+            "line": 176
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 172
-      }
+        "line": 173
+      },
+      "imported": false
     },
     {
       "targetPackage": "google-antigravity-ide",
@@ -253,14 +262,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 180
+            "line": 181
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 177
-      }
+        "line": 178
+      },
+      "imported": false
     },
     {
       "targetPackage": "hammerspoon",
@@ -279,14 +289,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 87
+            "line": 88
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 84
-      }
+        "line": 85
+      },
+      "imported": false
     },
     {
       "targetPackage": "inkscape",
@@ -305,14 +316,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 92
+            "line": 93
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 89
-      }
+        "line": 90
+      },
+      "imported": false
     },
     {
       "targetPackage": "iterm2",
@@ -331,14 +343,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 97
+            "line": 98
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 94
-      }
+        "line": 95
+      },
+      "imported": false
     },
     {
       "targetPackage": "jdk",
@@ -357,14 +370,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 187
+            "line": 188
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 184
-      }
+        "line": 185
+      },
+      "imported": false
     },
     {
       "targetPackage": "karabiner-elements",
@@ -383,14 +397,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 102
+            "line": 103
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 99
-      }
+        "line": 100
+      },
+      "imported": false
     },
     {
       "targetPackage": "ledger-wallet",
@@ -409,14 +424,42 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 192
+            "line": 193
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 189
-      }
+        "line": 190
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "maccy",
+      "targetInterfaceFingerprint": "ee52cd529b03482b076f62cef18c5e9de44ab5a0ce9974bce609ed8a9df6e11c",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "maccy",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "maccy",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 203
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 200
+      },
+      "imported": false
     },
     {
       "targetPackage": "neovide",
@@ -435,14 +478,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 108
+            "line": 109
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 105
-      }
+        "line": 106
+      },
+      "imported": false
     },
     {
       "targetPackage": "openwebstart",
@@ -461,14 +505,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 113
+            "line": 114
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 110
-      }
+        "line": 111
+      },
+      "imported": false
     },
     {
       "targetPackage": "signal",
@@ -487,14 +532,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 197
+            "line": 198
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 194
-      }
+        "line": 195
+      },
+      "imported": false
     },
     {
       "targetPackage": "slack",
@@ -513,14 +559,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 202
+            "line": 208
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 199
-      }
+        "line": 205
+      },
+      "imported": false
     },
     {
       "targetPackage": "sqlitebrowser",
@@ -539,14 +586,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 119
+            "line": 120
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 116
-      }
+        "line": 117
+      },
+      "imported": false
     },
     {
       "targetPackage": "telegram",
@@ -565,14 +613,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 207
+            "line": 213
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 204
-      }
+        "line": 210
+      },
+      "imported": false
     },
     {
       "targetPackage": "tigervnc",
@@ -591,14 +640,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 124
+            "line": 125
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 121
-      }
+        "line": 122
+      },
+      "imported": false
     },
     {
       "targetPackage": "turbovnc",
@@ -617,14 +667,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 129
+            "line": 130
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 126
-      }
+        "line": 127
+      },
+      "imported": false
     },
     {
       "targetPackage": "utm",
@@ -643,14 +694,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 134
+            "line": 135
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 131
-      }
+        "line": 132
+      },
+      "imported": false
     },
     {
       "targetPackage": "viber",
@@ -669,14 +721,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 212
+            "line": 218
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 209
-      }
+        "line": 215
+      },
+      "imported": false
     },
     {
       "targetPackage": "virtualbuddy",
@@ -695,14 +748,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 217
+            "line": 223
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 214
-      }
+        "line": 220
+      },
+      "imported": false
     },
     {
       "targetPackage": "vscode",
@@ -721,14 +775,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 139
+            "line": 140
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 136
-      }
+        "line": 137
+      },
+      "imported": false
     },
     {
       "targetPackage": "windows-app",
@@ -747,14 +802,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 144
+            "line": 145
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 141
-      }
+        "line": 142
+      },
+      "imported": false
     },
     {
       "targetPackage": "zerotier-one",
@@ -773,14 +829,15 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 222
+            "line": 228
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 219
-      }
+        "line": 225
+      },
+      "imported": false
     }
   ]
 }

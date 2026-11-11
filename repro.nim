@@ -46,6 +46,7 @@ import "../reprobuild-packages/packages/interfaces/google-antigravity/repro" as 
 import "../reprobuild-packages/packages/interfaces/google-antigravity-cli/repro" as googleAntigravityCliInterface
 import "../reprobuild-packages/packages/interfaces/google-antigravity-ide/repro" as googleAntigravityIdeInterface
 import "../reprobuild-packages/packages/interfaces/ledger-wallet/repro" as ledgerWalletInterface
+import "../reprobuild-packages/packages/interfaces/maccy/repro" as maccyInterface
 import "../reprobuild-packages/packages/interfaces/signal/repro" as signalInterface
 import "../reprobuild-packages/packages/interfaces/slack/repro" as slackInterface
 import "../reprobuild-packages/packages/interfaces/telegram/repro" as telegramInterface
@@ -195,6 +196,11 @@ provisioningFor "signal":
   interfaceFingerprint "fadf54bca39b6882281466d3bd6a18ed11c51370821860aa07096a21d507ce69"
   contributor "github:metacraft-labs/reprobuild-brew-packages"
   brewCask "signal"
+
+provisioningFor "maccy":
+  interfaceFingerprint "ee52cd529b03482b076f62cef18c5e9de44ab5a0ce9974bce609ed8a9df6e11c"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "maccy"
 
 provisioningFor "slack":
   interfaceFingerprint "f3d91e94ebc062a136f339820d2371abf8b321601f7aa79b747148a42e08bdf3"
