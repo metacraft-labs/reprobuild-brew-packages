@@ -31,7 +31,7 @@
     },
     {
       "targetPackage": "codex",
-      "targetInterfaceFingerprint": "5f10bc6323dc999df7dd609ac35ac98be8d9086598198a17d228f6de96092d0e",
+      "targetInterfaceFingerprint": "fa936c46615d714d4efdaec268a339ef49b5051208a9d6bb9b656247db2615c8",
       "contributor": "github:metacraft-labs/reprobuild-brew-packages",
       "developInterface": false,
       "nixProvisioning": [],

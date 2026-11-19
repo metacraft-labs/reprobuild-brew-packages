@@ -39,7 +39,7 @@ import "../reprobuild-packages/packages/interfaces/turbovnc/repro" as turbovncIn
 import "../reprobuild-packages/packages/interfaces/utm/repro" as utmInterface
 import "../reprobuild-packages/packages/interfaces/vscode/repro" as vscodeInterface
 import "../reprobuild-packages/packages/interfaces/windows-app/repro" as windowsAppInterface
-import "../reprobuild-packages/packages/interfaces/codex/repro" as codexInterface
+import "../reprobuild-llm-agent-packages/packages/interfaces/codex/repro" as codexInterface
 import "../reprobuild-packages/packages/interfaces/cursor/repro" as cursorInterface
 import "../reprobuild-packages/packages/interfaces/discord/repro" as discordInterface
 import "../reprobuild-packages/packages/interfaces/google-antigravity/repro" as googleAntigravityInterface
@@ -150,7 +150,7 @@ provisioningFor "windows-app":
 # The `codex` cask is OpenAI's terminal coding agent (the CLI), not the
 # desktop application, whose cask is `codex-app` (codex-desktop above).
 provisioningFor "codex":
-  interfaceFingerprint "5f10bc6323dc999df7dd609ac35ac98be8d9086598198a17d228f6de96092d0e"
+  interfaceFingerprint "fa936c46615d714d4efdaec268a339ef49b5051208a9d6bb9b656247db2615c8"
   contributor "github:metacraft-labs/reprobuild-brew-packages"
   brewCask "codex"
 
