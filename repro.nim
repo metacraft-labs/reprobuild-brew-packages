@@ -38,6 +38,16 @@ import "../reprobuild-packages/packages/interfaces/tigervnc/repro" as tigervncIn
 import "../reprobuild-packages/packages/interfaces/turbovnc/repro" as turbovncInterface
 import "../reprobuild-packages/packages/interfaces/utm/repro" as utmInterface
 import "../reprobuild-packages/packages/interfaces/vscode/repro" as vscodeInterface
+import "../reprobuild-packages/packages/interfaces/clion/repro" as clionInterface
+import "../reprobuild-packages/packages/interfaces/gimp/repro" as gimpInterface
+import "../reprobuild-packages/packages/interfaces/libreoffice/repro" as libreofficeInterface
+import "../reprobuild-packages/packages/interfaces/rustrover/repro" as rustroverInterface
+import "../reprobuild-packages/packages/interfaces/spotify/repro" as spotifyInterface
+import "../reprobuild-packages/packages/interfaces/steam/repro" as steamInterface
+import "../reprobuild-packages/packages/interfaces/thunderbird/repro" as thunderbirdInterface
+import "../reprobuild-packages/packages/interfaces/vlc/repro" as vlcInterface
+import "../reprobuild-packages/packages/interfaces/wireshark/repro" as wiresharkInterface
+import "../reprobuild-packages/packages/interfaces/zoom/repro" as zoomInterface
 import "../reprobuild-packages/packages/interfaces/windows-app/repro" as windowsAppInterface
 import "../reprobuild-llm-agent-packages/packages/interfaces/codex/repro" as codexInterface
 import "../reprobuild-packages/packages/interfaces/cursor/repro" as cursorInterface
@@ -232,3 +242,53 @@ package reprobuildBrewPackages:
     task "test",
       command = "nim c -r --nimcache:build/nimcache-brew-catalog tests/test_brew_catalog.nim",
       description = "Validate the Homebrew contribution catalog"
+
+provisioningFor "thunderbird":
+  interfaceFingerprint "a1f2866c113545a59e655f8ea13d4a07167fe1bcfa4bea4bad9cd41b8603ddc8"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "thunderbird"
+
+provisioningFor "vlc":
+  interfaceFingerprint "1b4114ca2be7fbfc49ccb469b75d38a96b4cf661652e0ff79857ba93726d9f8b"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "vlc"
+
+provisioningFor "zoom":
+  interfaceFingerprint "e51b411eaec1ff27ed0f6954a95fbb2b26c1fb39c05ca733738df20269cbdc2f"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "zoom"
+
+provisioningFor "wireshark":
+  interfaceFingerprint "ec45a6aaa94e644aeef43ba7ed5ce54060bf5f3e51826812682e77d8b228e090"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "wireshark-app"
+
+provisioningFor "libreoffice":
+  interfaceFingerprint "f8bf7664e3636c6c308262aa9384bfb90d1d098f2279876470c66fae90f29925"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "libreoffice"
+
+provisioningFor "rustrover":
+  interfaceFingerprint "b8255c7c88d214ada7b28a3b196e353288b6315f023d64c8eee567da71c23877"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "rustrover"
+
+provisioningFor "spotify":
+  interfaceFingerprint "4092e02c0eef9ff3e2d506a17a48124a2f41c7fba1b02f47283fc086099c40ca"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "spotify"
+
+provisioningFor "clion":
+  interfaceFingerprint "2fb5f0c752de048397b2164ad7f7b659557e347a316c8224c6b671e7ad8a1b53"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "clion"
+
+provisioningFor "gimp":
+  interfaceFingerprint "18eb65e4b4ef4b21de550120e1f220291a77974fdeec0a980392683c6be2fe7f"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "gimp"
+
+provisioningFor "steam":
+  interfaceFingerprint "141ad236a649ce9f1806d3b1d608826d3a97210f3719042233d77e33dde5cfbf"
+  contributor "github:metacraft-labs/reprobuild-brew-packages"
+  brewCask "steam"

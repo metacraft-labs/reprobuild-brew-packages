@@ -51,7 +51,7 @@ suite "Homebrew contribution catalog":
   test "every contribution is pinned to its canonical definition":
     let contributions = registeredProvisioningContributions()
     let packages = registeredPackages()
-    check contributions.len == 31
+    check contributions.len == 41
     for contribution in contributions:
       checkpoint contribution.targetPackage
       check contribution.contributor == Contributor
@@ -100,7 +100,7 @@ suite "Homebrew contribution catalog":
     # declares. Regenerate with `just update-contribution-records`.
     let root = getCurrentDir()
     let artifact = artifactFromRegisteredDsl(root / "repro.nim")
-    check artifact.projectInterface.provisioningContributions.len == 31
+    check artifact.projectInterface.provisioningContributions.len == 41
     let fresh = renderContributionRecords(
       artifact.projectInterface.provisioningContributions, root)
     if getEnv(UpdateEnvVar) == "1":
@@ -109,13 +109,13 @@ suite "Homebrew contribution catalog":
     check readFile(root / RecordsFile) == fresh
     let doc = parseJson(fresh)
     check doc["format"].getStr == ContributionRecordsFormat
-    check doc["contributions"].len == 31
+    check doc["contributions"].len == 41
     var tokens: seq[string] = @[]
     for c in doc["contributions"]:
       check c["location"]["file"].getStr == "repro.nim"
       for r in c["homebrewProvisioning"]:
         tokens.add(r["token"].getStr)
-    check tokens.len == 31
+    check tokens.len == 41
     check "visual-studio-code" in tokens
     check "temurin@21" in tokens
     check not fresh.contains(root)

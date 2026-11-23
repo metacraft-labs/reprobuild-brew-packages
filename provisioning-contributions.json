@@ -19,13 +19,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 66
+            "line": 76
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 63
+        "line": 73
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "clion",
+      "targetInterfaceFingerprint": "2fb5f0c752de048397b2164ad7f7b659557e347a316c8224c6b671e7ad8a1b53",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "clion",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "clion",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 284
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 281
       },
       "imported": false
     },
@@ -46,13 +73,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 155
+            "line": 165
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 152
+        "line": 162
       },
       "imported": false
     },
@@ -73,13 +100,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 73
+            "line": 83
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 70
+        "line": 80
       },
       "imported": false
     },
@@ -100,13 +127,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 160
+            "line": 170
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 157
+        "line": 167
       },
       "imported": false
     },
@@ -127,13 +154,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 165
+            "line": 175
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 162
+        "line": 172
       },
       "imported": false
     },
@@ -154,13 +181,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 78
+            "line": 88
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 75
+        "line": 85
       },
       "imported": false
     },
@@ -181,13 +208,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 83
+            "line": 93
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 80
+        "line": 90
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "gimp",
+      "targetInterfaceFingerprint": "18eb65e4b4ef4b21de550120e1f220291a77974fdeec0a980392683c6be2fe7f",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "gimp",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "gimp",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 289
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 286
       },
       "imported": false
     },
@@ -208,13 +262,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 171
+            "line": 181
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 168
+        "line": 178
       },
       "imported": false
     },
@@ -235,13 +289,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 176
+            "line": 186
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 173
+        "line": 183
       },
       "imported": false
     },
@@ -262,13 +316,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 181
+            "line": 191
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 178
+        "line": 188
       },
       "imported": false
     },
@@ -289,13 +343,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 88
+            "line": 98
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 85
+        "line": 95
       },
       "imported": false
     },
@@ -316,13 +370,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 93
+            "line": 103
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 90
+        "line": 100
       },
       "imported": false
     },
@@ -343,13 +397,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 98
+            "line": 108
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 95
+        "line": 105
       },
       "imported": false
     },
@@ -370,13 +424,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 188
+            "line": 198
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 185
+        "line": 195
       },
       "imported": false
     },
@@ -397,13 +451,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 103
+            "line": 113
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 100
+        "line": 110
       },
       "imported": false
     },
@@ -424,13 +478,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 193
+            "line": 203
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 190
+        "line": 200
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "libreoffice",
+      "targetInterfaceFingerprint": "f8bf7664e3636c6c308262aa9384bfb90d1d098f2279876470c66fae90f29925",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "libreoffice",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "libreoffice",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 269
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 266
       },
       "imported": false
     },
@@ -451,13 +532,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 203
+            "line": 213
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 200
+        "line": 210
       },
       "imported": false
     },
@@ -478,13 +559,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 109
+            "line": 119
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 106
+        "line": 116
       },
       "imported": false
     },
@@ -505,13 +586,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 114
+            "line": 124
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 111
+        "line": 121
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "rustrover",
+      "targetInterfaceFingerprint": "b8255c7c88d214ada7b28a3b196e353288b6315f023d64c8eee567da71c23877",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "rustrover",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "rustrover",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 274
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 271
       },
       "imported": false
     },
@@ -532,13 +640,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 198
+            "line": 208
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 195
+        "line": 205
       },
       "imported": false
     },
@@ -559,13 +667,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 208
+            "line": 218
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 205
+        "line": 215
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "spotify",
+      "targetInterfaceFingerprint": "4092e02c0eef9ff3e2d506a17a48124a2f41c7fba1b02f47283fc086099c40ca",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "spotify",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "spotify",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 279
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 276
       },
       "imported": false
     },
@@ -586,13 +721,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 120
+            "line": 130
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 117
+        "line": 127
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "steam",
+      "targetInterfaceFingerprint": "141ad236a649ce9f1806d3b1d608826d3a97210f3719042233d77e33dde5cfbf",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "steam",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "steam",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 294
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 291
       },
       "imported": false
     },
@@ -613,13 +775,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 213
+            "line": 223
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 210
+        "line": 220
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "thunderbird",
+      "targetInterfaceFingerprint": "a1f2866c113545a59e655f8ea13d4a07167fe1bcfa4bea4bad9cd41b8603ddc8",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "thunderbird",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "thunderbird",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 249
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 246
       },
       "imported": false
     },
@@ -640,13 +829,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 125
+            "line": 135
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 122
+        "line": 132
       },
       "imported": false
     },
@@ -667,13 +856,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 130
+            "line": 140
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 127
+        "line": 137
       },
       "imported": false
     },
@@ -694,13 +883,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 135
+            "line": 145
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 132
+        "line": 142
       },
       "imported": false
     },
@@ -721,13 +910,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 218
+            "line": 228
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 215
+        "line": 225
       },
       "imported": false
     },
@@ -748,13 +937,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 223
+            "line": 233
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 220
+        "line": 230
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "vlc",
+      "targetInterfaceFingerprint": "1b4114ca2be7fbfc49ccb469b75d38a96b4cf661652e0ff79857ba93726d9f8b",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "vlc",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "vlc",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 254
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 251
       },
       "imported": false
     },
@@ -775,13 +991,13 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 140
+            "line": 150
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 137
+        "line": 147
       },
       "imported": false
     },
@@ -802,13 +1018,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 145
+            "line": 155
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 142
+        "line": 152
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "wireshark",
+      "targetInterfaceFingerprint": "ec45a6aaa94e644aeef43ba7ed5ce54060bf5f3e51826812682e77d8b228e090",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "wireshark",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "wireshark-app",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 264
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 261
       },
       "imported": false
     },
@@ -829,13 +1072,40 @@
           "tap": "",
           "location": {
             "file": "repro.nim",
-            "line": 228
+            "line": 238
           }
         }
       ],
       "location": {
         "file": "repro.nim",
-        "line": 225
+        "line": 235
+      },
+      "imported": false
+    },
+    {
+      "targetPackage": "zoom",
+      "targetInterfaceFingerprint": "e51b411eaec1ff27ed0f6954a95fbb2b26c1fb39c05ca733738df20269cbdc2f",
+      "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+      "developInterface": false,
+      "nixProvisioning": [],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "homebrewProvisioning": [
+        {
+          "packageName": "zoom",
+          "contributor": "github:metacraft-labs/reprobuild-brew-packages",
+          "kind": "cask",
+          "token": "zoom",
+          "tap": "",
+          "location": {
+            "file": "repro.nim",
+            "line": 259
+          }
+        }
+      ],
+      "location": {
+        "file": "repro.nim",
+        "line": 256
       },
       "imported": false
     }
